@@ -2,8 +2,7 @@
 <h3 align="center">Software Developer | Angular · Node.js · AI Automation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dinesh-T-2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Dinesh-T-2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Dinesh GitHub profile views" /></p>
 
 ---
 
